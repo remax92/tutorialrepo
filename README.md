@@ -1,1 +1,1 @@
-my new file contents
+<!-- boop-counter -->2<!-- /boop-counter -->
