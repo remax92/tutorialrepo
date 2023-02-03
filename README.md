@@ -1,1 +1,1 @@
-<-- boop-counter -->(\d+)<-- \/boop-counter -->
+<!-- boop-counter -->2<!-- /boop-counter -->
